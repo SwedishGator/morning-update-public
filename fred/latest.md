@@ -1,22 +1,23 @@
-## Gaming & Industry News
-
-* **October 23, 2026 – Arkane Lyon Faces Closure Deadline:** Following Microsoft's move to spin off or divest several studios, *Marvel's Blade* and *Dishonored* developer Arkane Lyon has until November 13, 2026, to find a buyer or face permanent shutdown under French labor regulations. Negotiations are reportedly faltering, leaving 217 jobs in jeopardy while production on *Marvel's Blade* continues.
-* **October 22, 2026 – Capcom Discloses Major Data Breach:** Capcom confirmed that an unauthorized third party accessed data tied to more than 11 million Capcom ID accounts, warning users to remain vigilant against phishing attempts following suspicious activity first detected on October 19.
-* **October 23, 2026 – Call of Duty: Modern Warfare 4 Launches:** *Call of Duty: Modern Warfare 4* officially launched on PS5 alongside its day-one CODE Valor Pack DLC, which introduces real-life Medal of Honor recipient Kyle Carpenter as a playable operator to benefit military veteran employment initiatives.
-* **Next Major Release to Watch:** *Grand Theft Auto 6* launches on PS5 on **November 19, 2026**.
-
 ## League of Legends: Worlds 2026 Swiss Stage
 
-* **October 24, 2026 – Swiss Stage Round 2 (1-0 Pool):** **Movistar KOI 1, CTBC Flying Oyster 0.** Movistar KOI secured a 33-minute victory behind strong performances from Jojopyun and Supa. The win advances Movistar KOI to the 2-0 pool—putting them just one best-of-three series win away from qualifying for the Knockout Stage—while CTBC Flying Oyster drops to the 1-1 pool.
-* **October 24, 2026 – Swiss Stage Round 2 (0-1 Pool):** **Top Esports 1, Anyone's Legend 0.** In an all-LPL clash, Top Esports defeated domestic champions Anyone's Legend in 30 minutes. The victory moves Top Esports to 1-1, while Anyone's Legend drops to the 0-2 pool and must win three consecutive best-of-three series to avoid elimination.
+* **October 25, 2026 – Swiss Stage Round 2:** Dplus KIA defeated T1 **1-0** in a 41-minute match featuring a standout performance by Support player Career on Renata Glasc. The victory advances Dplus KIA in the Swiss bracket, while T1 drops to the 1-1 pool.
+* **October 25, 2026 – Swiss Stage Round 2:** Gen.G defeated Hanwha Life Esports **1-0** in 29 minutes, moving to a 2-0 record and a step away from the knockout stage, while Hanwha Life Esports dropped to 1-1.
+* **October 25, 2026 – Swiss Stage Round 2:** LYON defeated Karmine Corp **1-0** in 37 minutes, improving to 2-0 and dropping Karmine Corp to 1-1.
+* **October 25, 2026 – Swiss Stage Round 2:** Bilibili Gaming defeated Team Liquid Alienware **1-0** in 31 minutes. The loss drops Team Liquid Alienware to an elimination-threatened 0-2 record in the Swiss stage, while Bilibili Gaming advances to the 1-1 pool.
 
 ## Aston Villa
 
-* **October 21, 2026 – Women's Players Cup:** Aston Villa Women defeated **Burnley Women** **2-0** at Turf Moor in the League Phase. Georgia Mullett opened the scoring before Lily Murphy added a second, while academy graduate Immy Seymour made her senior debut as Villa maintained a perfect group record.
-* **Next Fixture:** Aston Villa men travel to face **Bournemouth** in the fourth round of the Carabao Cup on **Wednesday, October 28, 2026**, before hosting **Fulham** in Premier League action on **October 31, 2026**.
+* **October 25, 2026 – Player Availability Update:** Aston Villa Women head into their Women's Super League match against Everton on **October 25, 2026**, with midfielders Lucia Kendall and Missy Bo Kearns returning to availability after completing their recovery programs. Jill Baijings, Rachel Daly, Kamilla Melgård, Ellie Roebuck, Lucy Parker, and Lily Clark remain unavailable.
+* **October 25, 2026 – U18 Premier League South:** Aston Villa U18 fell **3-1** against Arsenal U18 at Bodymoor Heath, with Jake Doughty scoring Villa's sole goal.
+
+## Gaming & PlayStation
+
+* **October 23, 2026:** *Call of Duty: Modern Warfare 4* officially launched on PS5, alongside its day-one CODE Valor Pack DLC which honors real-life Medal of Honor recipient Kyle Carpenter to benefit veteran employment initiatives.
+* **October 23, 2026:** Electronic Arts confirmed the closure of legendary RPG studio BioWare and the cancellation of its upcoming *Mass Effect* project as part of a restructuring and layoff affecting roughly 400 employees.
+* **Next Major Reveal or Release to Watch:** *Grand Theft Auto 6* releases on PS5 on **November 19, 2026**.
 
 ## Florida Gators
 
-* **October 24, 2026 – Football Bye Week:** The Florida Gators (5-2) were idle on a bye week following their road upset over Texas. Ranking changes remain unavailable, and Florida's next-game win probability against the **Georgia Bulldogs** on Saturday, October 31, 2026, is unavailable in the source data.
-* **October 23, 2026 – Women's Soccer Result:** Florida played to a **1-1** draw against the **No. 25 Auburn Tigers**, with Megan Hogan scoring the Gators' lone goal. Florida's record following the match is unavailable in the source data, ranking changes are unavailable, and the next-game win probability is unavailable.
-* **October 24, 2026 – Gymnastics:** Florida gymnast Skye Blakely followed up her World All-Around title by securing two individual bronze medals at the World Championships.
+* **October 24, 2026 – Volleyball:** The No. 5 Florida Gators defeated the **Tigers** **3-0**. Florida's overall record following the win and updated ranking changes are unavailable in the source data.
+* **October 23, 2026 – Swimming & Diving:** Three-time World Champion and two-time Olympic Gold Medalist Matt Richards officially announced he is joining the Florida Gators for the Spring 2027 season.
+* **Next Game:** The Gators football team faces the **Georgia Bulldogs**; next-game win probability and ranking updates are unavailable in the source data.
