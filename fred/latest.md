@@ -1,23 +1,24 @@
 ## League of Legends: Worlds 2026 Swiss Stage
 
-* **October 25, 2026 – Swiss Stage Round 2:** Dplus KIA defeated T1 **1-0** in a 41-minute match featuring a standout performance by Support player Career on Renata Glasc. The victory advances Dplus KIA in the Swiss bracket, while T1 drops to the 1-1 pool.
-* **October 25, 2026 – Swiss Stage Round 2:** Gen.G defeated Hanwha Life Esports **1-0** in 29 minutes, moving to a 2-0 record and a step away from the knockout stage, while Hanwha Life Esports dropped to 1-1.
-* **October 25, 2026 – Swiss Stage Round 2:** LYON defeated Karmine Corp **1-0** in 37 minutes, improving to 2-0 and dropping Karmine Corp to 1-1.
-* **October 25, 2026 – Swiss Stage Round 2:** Bilibili Gaming defeated Team Liquid Alienware **1-0** in 31 minutes. The loss drops Team Liquid Alienware to an elimination-threatened 0-2 record in the Swiss stage, while Bilibili Gaming advances to the 1-1 pool.
+* **October 26, 2026 – Swiss Stage Round 3:** Team Liquid Alienware defeated Anyone's Legend **2-0** (Game 1: 33:12, Game 2: 47:29). The victory moves Team Liquid to the 1-2 pool, while Anyone's Legend is eliminated from the tournament with an 0-3 record.
+* **October 26, 2026 – Swiss Stage Round 3:** LØS defeated Team Secret Whales **2-0** (Game 1: 40:04, Game 2: 37:23). LØS advances to the 1-2 pool to play another elimination match, while Team Secret Whales is eliminated with 0 wins.
+* **October 26, 2026 – Swiss Stage Round 3:** Bilibili Gaming defeated Karmine Corp **1-0** in 36 minutes.
+* **October 26, 2026 – Swiss Stage Round 3:** T1 defeated CTBC Flying Oyster **1-0** in 27 minutes.
+* **Round 4 Matchups:** Qualification matches feature TES vs. BLG, IG vs. LYON, and MKOI vs. T1. Elimination matches feature KC vs. CFO, TLAW vs. LOS, and HLE vs. G2.
 
 ## Aston Villa
 
-* **October 25, 2026 – Player Availability Update:** Aston Villa Women head into their Women's Super League match against Everton on **October 25, 2026**, with midfielders Lucia Kendall and Missy Bo Kearns returning to availability after completing their recovery programs. Jill Baijings, Rachel Daly, Kamilla Melgård, Ellie Roebuck, Lucy Parker, and Lily Clark remain unavailable.
-* **October 25, 2026 – U18 Premier League South:** Aston Villa U18 fell **3-1** against Arsenal U18 at Bodymoor Heath, with Jake Doughty scoring Villa's sole goal.
-
-## Gaming & PlayStation
-
-* **October 23, 2026:** *Call of Duty: Modern Warfare 4* officially launched on PS5, alongside its day-one CODE Valor Pack DLC which honors real-life Medal of Honor recipient Kyle Carpenter to benefit veteran employment initiatives.
-* **October 23, 2026:** Electronic Arts confirmed the closure of legendary RPG studio BioWare and the cancellation of its upcoming *Mass Effect* project as part of a restructuring and layoff affecting roughly 400 employees.
-* **Next Major Reveal or Release to Watch:** *Grand Theft Auto 6* releases on PS5 on **November 19, 2026**.
+* **Next Fixture:** Aston Villa travel to the south coast to face **AFC Bournemouth** in the Carabao Cup Fourth Round on **Wednesday, October 28, 2026** (19:45 BST). Their next Premier League fixture is at home against **Fulham** on **Saturday, October 31, 2026**.
+* **October 27, 2026 – Ballon d'Or Representation:** Unai Emery and Johan Manzambi represented the club at the 70th-anniversary Ballon d'Or Ceremony in London, where Emery was nominated for Men’s Coach of the Year and Manzambi for the Kopa Trophy.
 
 ## Florida Gators
 
-* **October 24, 2026 – Volleyball:** The No. 5 Florida Gators defeated the **Tigers** **3-0**. Florida's overall record following the win and updated ranking changes are unavailable in the source data.
-* **October 23, 2026 – Swimming & Diving:** Three-time World Champion and two-time Olympic Gold Medalist Matt Richards officially announced he is joining the Florida Gators for the Spring 2027 season.
-* **Next Game:** The Gators football team faces the **Georgia Bulldogs**; next-game win probability and ranking updates are unavailable in the source data.
+* **October 27, 2026 – Football Preview:** The No. 17 Florida Gators prepare for their historic rivalry matchup against the **No. 3 Georgia Bulldogs** in Atlanta on Saturday, October 31, 2026. Florida enters as a double-digit underdog; next-game win probability and ranking changes (aside from moving up to No. 17 during their bye week) are unavailable. Head coach Jon Sumrall confirmed the quarterback decision between Tramell Jones Jr. and Aaron Philo remains open.
+* **October 27, 2026 – Basketball & Volleyball Updates:** The No. 1 Florida men's basketball team hosts Flagler on Wednesday, October 28, 2026, for their final preseason exhibition tune-up. Meanwhile, the No. 5 Florida volleyball team comes off a 3-0 sweep against Ole Miss, with Taylor Park earning SEC Player and Setter of the Week honors.
+
+## Gaming & PlayStation (PS5)
+
+* **October 27, 2026:** Square Enix released 46 seconds of new gameplay footage for *Final Fantasy 7 Revelation*, showcasing vertical exploration in the Midgar region aboard a pink chocobo ahead of its April 8, 2027 release.
+* **October 27, 2026:** Microsoft announced a Voluntary Exit Offer providing buyout packages to approximately 60,000 workers (over 25% of its workforce), with Xbox divisions included in the cuts.
+* **October 27, 2026:** Nintendo announced an Indie World Showcase streaming on **October 28, 2026**, at 7 AM PT / 10 AM ET, featuring 15 minutes of updates on upcoming Nintendo Switch 2 and Switch indie games.
+* **Next Major Reveal or Release to Watch:** *Grand Theft Auto 6* launches on PS5 on **November 19, 2026**.
