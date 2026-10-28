@@ -1,24 +1,28 @@
-## League of Legends: Worlds 2026 Swiss Stage
-
-* **October 26, 2026 – Swiss Stage Round 3:** Team Liquid Alienware defeated Anyone's Legend **2-0** (Game 1: 33:12, Game 2: 47:29). The victory moves Team Liquid to the 1-2 pool, while Anyone's Legend is eliminated from the tournament with an 0-3 record.
-* **October 26, 2026 – Swiss Stage Round 3:** LØS defeated Team Secret Whales **2-0** (Game 1: 40:04, Game 2: 37:23). LØS advances to the 1-2 pool to play another elimination match, while Team Secret Whales is eliminated with 0 wins.
-* **October 26, 2026 – Swiss Stage Round 3:** Bilibili Gaming defeated Karmine Corp **1-0** in 36 minutes.
-* **October 26, 2026 – Swiss Stage Round 3:** T1 defeated CTBC Flying Oyster **1-0** in 27 minutes.
-* **Round 4 Matchups:** Qualification matches feature TES vs. BLG, IG vs. LYON, and MKOI vs. T1. Elimination matches feature KC vs. CFO, TLAW vs. LOS, and HLE vs. G2.
-
 ## Aston Villa
 
-* **Next Fixture:** Aston Villa travel to the south coast to face **AFC Bournemouth** in the Carabao Cup Fourth Round on **Wednesday, October 28, 2026** (19:45 BST). Their next Premier League fixture is at home against **Fulham** on **Saturday, October 31, 2026**.
-* **October 27, 2026 – Ballon d'Or Representation:** Unai Emery and Johan Manzambi represented the club at the 70th-anniversary Ballon d'Or Ceremony in London, where Emery was nominated for Men’s Coach of the Year and Manzambi for the Kopa Trophy.
+* **October 28, 2026 – Carabao Cup Fourth Round:** Aston Villa visit AFC Bournemouth tonight (19:45 BST) seeking a fifth successive win and a spot in the Quarter-Finals.
+* **October 24, 2026 – Premier League:** Aston Villa defeated **Manchester City** **2-1** at Villa Park. Nicolas Jackson scored a brace either side of Erling Haaland's equalizer, extending Villa's unbeaten run to seven matches in all competitions.
+* **October 21, 2026 – UEFA Champions League:** Aston Villa defeated **Viking FK** **3-1** at Villa Park with goals from Ross Barkley, Emi Buendía, and an own goal.
+* **Next Fixture:** Aston Villa host **Fulham** in the Premier League on **October 31, 2026** (20:00 BST).
 
-## Florida Gators
+## League of Legends: Worlds 2026 Swiss Stage
 
-* **October 27, 2026 – Football Preview:** The No. 17 Florida Gators prepare for their historic rivalry matchup against the **No. 3 Georgia Bulldogs** in Atlanta on Saturday, October 31, 2026. Florida enters as a double-digit underdog; next-game win probability and ranking changes (aside from moving up to No. 17 during their bye week) are unavailable. Head coach Jon Sumrall confirmed the quarterback decision between Tramell Jones Jr. and Aaron Philo remains open.
-* **October 27, 2026 – Basketball & Volleyball Updates:** The No. 1 Florida men's basketball team hosts Flagler on Wednesday, October 28, 2026, for their final preseason exhibition tune-up. Meanwhile, the No. 5 Florida volleyball team comes off a 3-0 sweep against Ole Miss, with Taylor Park earning SEC Player and Setter of the Week honors.
+* **October 25–26, 2026 – Swiss Stage Updates:** 
+  * Team Liquid Alienware defeated Anyone's Legend **2-0** in the 0-2 pool on **October 26, 2026**, eliminating Anyone's Legend from the tournament.
+  * Dplus KIA defeated T1 **1-0** (October 25, 2026) and Gen.G defeated Hanwha Life Esports **1-0** (October 25, 2026) in Round 2.
+* **Bracket Implications:** Teams continue fighting through the Swiss rounds to secure advancement to the Knockout Stage or stave off elimination.
 
 ## Gaming & PlayStation (PS5)
 
-* **October 27, 2026:** Square Enix released 46 seconds of new gameplay footage for *Final Fantasy 7 Revelation*, showcasing vertical exploration in the Midgar region aboard a pink chocobo ahead of its April 8, 2027 release.
-* **October 27, 2026:** Microsoft announced a Voluntary Exit Offer providing buyout packages to approximately 60,000 workers (over 25% of its workforce), with Xbox divisions included in the cuts.
-* **October 27, 2026:** Nintendo announced an Indie World Showcase streaming on **October 28, 2026**, at 7 AM PT / 10 AM ET, featuring 15 minutes of updates on upcoming Nintendo Switch 2 and Switch indie games.
+* **October 28, 2026 – PS Plus Monthly Games:** Sony announced that the PlayStation Plus monthly games for November—*Dead Island 2*, *Tomb Raider IV – VI Remastered*, and *Monster Train 2*—will be available to play from November 3 to November 30, 2026.
+* **October 28, 2026 – Prism Collection Announced:** Sony revealed the Prism Collection featuring transparent designs for DualSense wireless controllers and PS5 console covers (Flare Orange, Emerald Green, and Graphite Gray), with preorders opening November 10 ahead of a February 4, 2027 rollout.
 * **Next Major Reveal or Release to Watch:** *Grand Theft Auto 6* launches on PS5 on **November 19, 2026**.
+
+## Florida Gators
+
+* **October 28, 2026 – Men's Basketball Exhibition:** The No. 1 Florida men's basketball team closed out their home exhibition slate with an **85-68** victory against **Stetson** on **October 28, 2026**. Florida's regular-season record is 0-0. Ranking changes: Florida opened at No. 1 in the preseason AP Top 25 poll. Next-game win probability is unavailable.
+* **October 31, 2026 – Next Football Game:** The No. 17 Florida Gators prepare for their rivalry matchup against the **No. 3 Georgia Bulldogs** in Atlanta on **October 31, 2026**. Next-game win probability is unavailable.
+
+## Richmond News
+
+* **October 27, 2026 – Virginia Department of Health Lead Warning:** The VDH issued a warning regarding dangerous lead hidden in older Richmond-area homes, recommending that parents of young children conduct a "chip check" for alligatoring paint.
