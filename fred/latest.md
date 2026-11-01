@@ -1,26 +1,27 @@
-## League of Legends: Worlds 2026 Swiss Stage
+## League of Legends: Worlds 2026
 
-* **October 30, 2026 – Round 4 Elimination Match:** **LØS 2, Team Liquid Alienware 1** (Game 1: LØS won in 29m; Game 2: Team Liquid won in 38m; Game 3: LØS won in 47m). The victory advances LØS to the 2-2 pool, while Team Liquid Alienware is eliminated from the tournament.
-* **October 31, 2026 – Round 4 Elimination Match:** **Hanwha Life Esports 2, G2 Esports 0** (Game 1: HLE won in 28m; Game 2: HLE won in 26m). HLE advances to the 2-2 pool, while G2 Esports is eliminated from Worlds 2026.
-* **October 31, 2026 – Round 5 Draw:** Following the conclusion of Round 4, the matchups for the final qualification and elimination round were drawn: **LØS vs. LYON**, **Karmine Corp vs. Movistar KOI**, and **Hanwha Life Esports vs. Bilibili Gaming**.
-
-## Florida Gators
-
-* **October 31, 2026 – Football Preview:** The No. 17 Florida Gators face the **No. 3 Georgia Bulldogs** in Atlanta today at 3:30 PM. Florida head coach Jon Sumrall confirmed that quarterback Aaron Philo will start. Florida's record following their last game is unavailable, next-game win probability is unavailable, and recent ranking updates place them at No. 17.
-* **October 30, 2026 – Men's Basketball Exhibition:** The Gators defeated Stetson **85-68**. Florida's overall record is unavailable.
+* **October 31, 2026 – Swiss Stage Round 5 Deciders:** The Swiss Stage concluded with three final qualification series locking in the Knockout Stage bracket:
+  * **Bilibili Gaming 2, Hanwha Life Esports 0:** BLG swept HLE behind standout mid-lane play from Knight, claiming the final quarterfinal berth and eliminating HLE from the tournament.
+  * **Karmine Corp 2, Movistar KOI 0:** Karmine Corp defeated European rival Movistar KOI 2-0 to advance to the Top 8, eliminating Movistar KOI.
+  * **LYON 2, LØS 1:** LCS representative LYON edged Brazilian side LØS 2-1, securing advancement to the quarterfinals while eliminating LØS.
+* **Quarterfinals Draw:** Knockout Stage best-of-five matchups begin on Tuesday, November 3, 2026, featuring **Dplus KIA vs. Bilibili Gaming**, **Karmine Corp vs. T1**, **Top Esports vs. Invictus Gaming**, and **Gen.G vs. LYON**.
 
 ## Aston Villa
 
-* **October 31, 2026 – Premier League:** Aston Villa host **Fulham** at Villa Park tonight (20:00 BST), looking to extend their unbeaten league run to five matches and secure a third consecutive Premier League victory. Unai Emery's side enters after falling **3-0** away against **AFC Bournemouth** in the Carabao Cup Fourth Round on **October 28, 2026**. 
-* **Team News:** Matteo Ruggeri and Aaron Wan-Bissaka remain sidelined with injury, and Amadou Onana is a long-term absentee.
+* **October 31, 2026 – Premier League:** Aston Villa drew **1-1** against **Fulham** at Villa Park. Nicolas Jackson scored his eighth goal of the season in the 37th minute to put Villa ahead following an early penalty miss by John McGinn. Fulham equalized in the second half when Alex Iwobi's corner deflected in off goalkeeper Zion Suzuki for an own goal. 
+* **November 1, 2026 – Women's Super League:** Aston Villa Women drew **1-1** away against **Arsenal** at Emirates Stadium, extending their unbeaten run to eight games in all competitions. Chasity Grant opened the scoring for Villa in the 25th minute before Alessia Russo equalized for Arsenal in the 85th minute.
+* **Next Fixtures:** The men's squad travels to face **Barcelona** in the UEFA Champions League on **Tuesday, November 3, 2026** (20:00 BST), followed by a Premier League match against **Manchester United** on **November 8, 2026**. The women's side hosts **Manchester United** at Villa Park on **Sunday, November 8, 2026**.
 
 ## Gaming & PlayStation (PS5)
 
-* **October 30, 2026:** Sony and the creators of *Phantom Blade Zero* confirmed that Roger Craig Smith has stepped in as the new voice actor for protagonist Soul, replacing Jay Maksenuk following the game's launch earlier in the week.
-* **October 29, 2026:** From Software announced that its upcoming Switch 2 exclusive *The Duskbloods* has been delayed to 2027.
-* **Next Major Reveal or Release to Watch:** *Call of Duty: Modern Warfare 4* Season 1 launches on **November 6, 2026**, followed by *Grand Theft Auto 6* on **November 19, 2026**.
+* **October 30, 2026 – Call of Duty: Modern Warfare 4 Patch:** Activision announced it will release a game update on **November 12, 2026**, to remove campaign opening cinematic footage resembling the real-world 2022 Seoul crowd crush following criticism from bereaved families.
+* **October 27, 2026 – Grand Theft Auto 6 PS5 File Size:** Technical listings revealed the base PS5 download for *Grand Theft Auto 6* will require approximately 210GB of storage space, with pre-loading scheduled to go live on **November 12, 2026**.
+* **Next Major Reveal or Release to Watch:** *Call of Duty: Modern Warfare 4* Season 1 launches on **November 6, 2026**, ahead of the PS5 release of *Grand Theft Auto 6* on **November 19, 2026**.
 
-## Richmond
+## Florida Gators
 
-* **October 30, 2026:** Richmond’s RVA Big Market announced it is leaving Bryan Park after six years and relocating to Midtown Green in the spring of 2027.
-* **October 29, 2026:** A new permanent space exhibit titled “Orbit” officially opened at the Science Museum of Virginia, featuring interactive experiences exploring space, physics, astronomy, and engineering.
+No fresh update available; source checks failed.
+
+## Richmond News
+
+No fresh update available; source checks failed.

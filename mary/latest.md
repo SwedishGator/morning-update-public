@@ -1,6 +1,1 @@
-## Legal Developments
-
-* **Weil Gotshal Plans Dissolution After High-Profile Fall (October 28, 2026):** Prominent law firm Weil, Gotshal & Manges LLP, famed for handling landmark bankruptcies including Lehman Brothers and Enron, announced plans to wind down operations and dissolve. The firm is coordinating with peer Big Law firms to place its remaining associates and trainees.
-* **ACA Legal Challenge Faces Intense Judicial Scrutiny (October 30, 2026):** Federal judges pressed litigants with sharp questioning during oral arguments in a high-stakes Affordable Care Act lawsuit brought by a coalition of municipal governments ("Blue Cities") against federal policy figures, including Robert F. Kennedy Jr.
-* **Federal Judge Vacates CMS Medicaid 'Medically Frail' Rule (October 30, 2026):** A federal district judge in Massachusetts struck down the Centers for Medicare & Medicaid Services' (CMS) regulatory definition of "medically frail," invalidating key administrative criteria used to govern work-requirement exemptions in state Medicaid programs.
-* **Pre-Election Legal Action Escalates Against State Voting Rules (October 30, 2026):** Legal representatives for Donald Trump filed an expanded series of challenges targeting state election administration protocols and voter eligibility procedures in the final days leading up to Election Day.
+*No fresh updates available today.*
