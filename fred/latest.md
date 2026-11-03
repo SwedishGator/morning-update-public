@@ -1,27 +1,27 @@
-## League of Legends: Worlds 2026
+## League Championship Series
 
-* **October 31, 2026 – Swiss Stage Round 5 Deciders:** The Swiss Stage concluded with three final qualification series locking in the Knockout Stage bracket:
-  * **Bilibili Gaming 2, Hanwha Life Esports 0:** BLG swept HLE behind standout mid-lane play from Knight, claiming the final quarterfinal berth and eliminating HLE from the tournament.
-  * **Karmine Corp 2, Movistar KOI 0:** Karmine Corp defeated European rival Movistar KOI 2-0 to advance to the Top 8, eliminating Movistar KOI.
-  * **LYON 2, LØS 1:** LCS representative LYON edged Brazilian side LØS 2-1, securing advancement to the quarterfinals while eliminating LØS.
-* **Quarterfinals Draw:** Knockout Stage best-of-five matchups begin on Tuesday, November 3, 2026, featuring **Dplus KIA vs. Bilibili Gaming**, **Karmine Corp vs. T1**, **Top Esports vs. Invictus Gaming**, and **Gen.G vs. LYON**.
-
-## Aston Villa
-
-* **October 31, 2026 – Premier League:** Aston Villa drew **1-1** against **Fulham** at Villa Park. Nicolas Jackson scored his eighth goal of the season in the 37th minute to put Villa ahead following an early penalty miss by John McGinn. Fulham equalized in the second half when Alex Iwobi's corner deflected in off goalkeeper Zion Suzuki for an own goal. 
-* **November 1, 2026 – Women's Super League:** Aston Villa Women drew **1-1** away against **Arsenal** at Emirates Stadium, extending their unbeaten run to eight games in all competitions. Chasity Grant opened the scoring for Villa in the 25th minute before Alessia Russo equalized for Arsenal in the 85th minute.
-* **Next Fixtures:** The men's squad travels to face **Barcelona** in the UEFA Champions League on **Tuesday, November 3, 2026** (20:00 BST), followed by a Premier League match against **Manchester United** on **November 8, 2026**. The women's side hosts **Manchester United** at Villa Park on **Sunday, November 8, 2026**.
-
-## Gaming & PlayStation (PS5)
-
-* **October 30, 2026 – Call of Duty: Modern Warfare 4 Patch:** Activision announced it will release a game update on **November 12, 2026**, to remove campaign opening cinematic footage resembling the real-world 2022 Seoul crowd crush following criticism from bereaved families.
-* **October 27, 2026 – Grand Theft Auto 6 PS5 File Size:** Technical listings revealed the base PS5 download for *Grand Theft Auto 6* will require approximately 210GB of storage space, with pre-loading scheduled to go live on **November 12, 2026**.
-* **Next Major Reveal or Release to Watch:** *Call of Duty: Modern Warfare 4* Season 1 launches on **November 6, 2026**, ahead of the PS5 release of *Grand Theft Auto 6* on **November 19, 2026**.
+* **November 3, 2026 – Worlds 2026 Quarterfinals Preview:** As the Knockout Stage approaches, bracket implications and rest advantages have sparked heavy discussion. The winner of the upcoming match between IG and TES will secure three full days of rest, while the winner of the T1 vs. KC series will receive only a single day of rest before the semifinals. 
+* **November 2, 2026 – Roster & Community Notes:** Anticipation builds for the T1 vs. Karmine Corp quarterfinals matchup, with community analysts noting that T1 faces familiar pressure from European competition following previous international elimination losses to G2 Esports and KC.
 
 ## Florida Gators
 
-No fresh update available; source checks failed.
+* **November 3, 2026 – Men's Basketball Season Opener:** No. 1 Florida opened their 2026–27 regular season with a **77-67** victory against the No. 14 Miami Hurricanes, bringing their record to **1-0**. Thomas Haugh led the top-ranked Gators with a double-double. Next-game win probability is unavailable.
+* **November 3, 2026 – Women's Basketball Season Opener:** The Lady Gators tipped off the Tammi Reiss era with an **83-60** win over Bucknell, marking their eighth consecutive season-opening victory and moving their record to **1-0**. Next-game win probability is unavailable.
+* **November 1, 2026 – Football Result:** The No. 17 Florida Gators fell **27-8** to the No. 3 Georgia Bulldogs in Atlanta on Halloween. Following the blowout defeat, Florida's record is unavailable in the source data, and the team tumbled out of the AP Top 25. Next-game win probability against their upcoming opponent, the Oklahoma Sooners, is unavailable.
+
+## Aston Villa
+
+* **November 3, 2026 – UEFA Youth League:** Aston Villa U19 drew **3-3** away against FC Barcelona U19 at La Masia. TJ Carroll scored a brace alongside a late strike from Markie Meade before Barcelona netted a last-minute equalizer.
+* **November 1, 2026 – Women's Super League:** Aston Villa Women drew **1-1** away against **Arsenal** at the Emirates Stadium, extending their unbeaten run to eight matches in all competitions. Chasity Grant opened the scoring in the 25th minute before Alessia Russo equalized for Arsenal in the 85th minute.
+* **Next Fixture:** The men's squad travels to face **Barcelona** in the UEFA Champions League at the Camp Nou on **Tuesday, November 3, 2026** (20:00 GMT).
+
+## Gaming & PlayStation
+
+* **November 3, 2026 – GTA 6 Pre-Load Announcement:** Rockstar Games announced that digital pre-downloads for *Grand Theft Auto VI* will begin on **November 10, 2026**, ahead of its **November 19, 2026** launch on PS5.
+* **November 3, 2026 – The Elder Scrolls VI Subtitle Revealed:** Bethesda officially confirmed the title of the next franchise entry as *The Elder Scrolls VI: Sentinel*, revealing it will be set in Hammerfell. 
+* **November 3, 2026 – Itch.io AI Content Policy:** Indie storefront Itch.io announced it removed several terabytes of AI-generated content and introduced new search filtering to allow users to completely exclude generative AI titles.
+* **Next Major Reveal or Release to Watch:** *Call of Duty: Modern Warfare 4* Season 1 launches on **November 6, 2026**, followed by *Grand Theft Auto 6* on **November 19, 2026**.
 
 ## Richmond News
 
-No fresh update available; source checks failed.
+* No fresh update available; source checks failed.
