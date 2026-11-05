@@ -1,27 +1,26 @@
 ## League Championship Series
 
-* **November 4, 2026 – Worlds 2026 Knockout Stage Roster Updates:** Reports indicated that Lyncas is set to join G2 Esports for the LEC 2027 season, while SkewMond will not continue on G2's active roster. Additionally, Pad is slated to join G2 Esports as Strategic Coach for 2027.
-* **November 4, 2026 – Historical Worlds Statistics:** Following the conclusion of the Swiss stage, statistics highlighted that this is only the second time in Worlds history that three out of four major region first seeds have been eliminated before the knockout stage (mirroring 2017).
-* **November 3, 2026 – Quarterfinals Matchup:** Invictus Gaming defeated Top Esports **3-1** in the Worlds 2026 Quarterfinals. Invictus Gaming advanced to the Semifinals to face the winner of Gen.G vs. LYON, while Top Esports were eliminated from the tournament.
-
-## Gaming & PlayStation (PS5)
-
-* **November 4, 2026 – God of War Laufey Delayed:** Santa Monica Studio announced that *God of War Laufey* has been delayed from its original February 2027 release date to **May 20, 2027**.
-* **November 4, 2026 – Nexus Mods AI Policy:** Nexus Mods announced mandatory AI content disclosures for all new PC mods uploaded to the site, allowing users to filter out AI-produced content from search results entirely.
-* **November 4, 2026 – The Elder Scrolls 6 Release Window:** Reporter Jason Schreier stated on Reddit that *The Elder Scrolls VI: Sentinel* is more than two years away from release.
-* **November 4, 2026 – GTA 6 Sales Tracker:** Sensor Tower reported that *Grand Theft Auto 6* has sold 7.71 million units via pre-purchases, with PS5 dominating the split at 5.74 million units (74%) compared to 1.97 million on Xbox Series X|S (26%).
-* **Next Major Reveal or Release to Watch:** *Call of Duty: Modern Warfare 4* Season 1 launches on **November 6, 2026**, followed by *Grand Theft Auto 6* on **November 19, 2026**.
+* **November 5, 2026 – G2 Roster Shuffles and Perkz Departure:** Following recent international struggles, G2 Esports announced the immediate termination of head coach Luka "Perkz" Perković following a controversial statement posted to social media regarding abortion. In addition, sources confirmed that jungler SkewMond will not continue on G2's active roster for the 2027 season, with Lyncas reportedly set to take his place.
+* **November 5, 2026 – LEC Transfer & Roster Reports:** Sheep Esports reported that Zicssi is set to join SK Gaming for the 2027 LEC season, while Movistar KOI, NAVI, and G2 Esports have all approached Team Vitality regarding potential bids for top laner Naak Nako.
+* **November 6, 2026 – Upcoming Quarterfinal:** Karmine Corp faces T1 in a high-stakes best-of-five matchup. Karmine Corp released a promotional trailer highlighting their first-ever meeting against T1.
 
 ## Florida Gators
 
-* **November 3, 2026 – Men's Basketball Season Opener:** No. 1 Florida opened their regular season with a **77-67** victory against the No. 14 Miami Hurricanes, bringing their record to **1-0**. Thomas Haugh led the Gators with a double-double. Next-game win probability is unavailable.
-* **November 3, 2026 – Women's Basketball Season Opener:** Florida opened the Tammi Reiss era with an **83-60** win over Bucknell, bringing their record to **1-0**. Next-game win probability is unavailable.
-* **November 4, 2026 – CFP Rankings Debut:** In the first College Football Playoff rankings released on November 4, 2026, the Florida Gators debuted at **No. 24**.
-* **November 4, 2026 – Executive Director Appointment:** Florida announced the appointment of Jordie Kindervater as the new Executive Director of Gator Boosters, Inc.
+* **November 4, 2026 – CFP Ranking Debut:** The Florida Gators debuted at **No. 24** in the initial College Football Playoff rankings released on **November 4, 2026**.
+* **November 5, 2026 – Roster & Injury Updates Ahead of Oklahoma:** Ahead of their upcoming matchup against the **Oklahoma Sooners** on **November 7, 2026**, sources report that quarterback Tramell Jones Jr. is set to replace Aaron Philo as the starter. Additionally, starting defensive lineman Jeramiah McCloud was suspended for one game due to detrimental conduct, and wide receiver Vernell Brown III is listed as doubtful. Next-game win probability is unavailable.
 
 ## Aston Villa
 
-* **Next Fixture:** Aston Villa return to action on **November 8, 2026**, hosting **Manchester United** in the Premier League. (No fresh match results or player moves available; source checks failed for official RSS updates).
+* **November 5, 2026 – Individual Awards & Nominations:** Unai Emery was nominated for the Premier League Manager of the Month award for October, striker Nicolas Jackson earned a Player of the Month nomination after scoring four goals across four games, and goalkeeper Zion Suzuki's stop against Fulham was nominated for Save of the Month. 
+* **November 4, 2026 – Long-Term Commitment:** Aston Villa confirmed that Chairman Nassef Sawiris and Unai Emery reached an agreement on a strategic vision and commitment extending beyond 2029.
+* **Next Fixture:** Aston Villa Women return to action hosting **Manchester United Women** in the Barclays Women's Super League at Villa Park on **Sunday, November 8, 2026** (12:00 GMT).
+
+## Gaming & PlayStation (PS5)
+
+* **November 5, 2026 – Arkane Union Backlash:** Following an extended period of studio uncertainty, the STJV union representing workers at Arkane Lyon publicly accused Microsoft of "sabotaging" the development of *Marvel's Blade* through a lengthy hiring freeze and financial pressures.
+* **November 5, 2026 – Assassin's Creed Valhalla PS5 Update:** Ubisoft released a free update for *Assassin's Creed Valhalla* on PS5 and PS5 Pro, introducing New Game+ and upgraded PSSR rendering support exclusively for the Pro console.
+* **November 4, 2026 – God of War Laufey Delayed:** Santa Monica Studio announced that *God of War Laufey* has been delayed from February 2027 to **May 20, 2027**.
+* **Next Major Reveal or Release to Watch:** *Call of Duty: Modern Warfare 4* Season 1 launches on **November 6, 2026**, followed by *Grand Theft Auto 6* on **November 19, 2026**.
 
 ## Richmond News
 
