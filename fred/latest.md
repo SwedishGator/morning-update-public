@@ -1,27 +1,24 @@
 ## League Championship Series
 
-* **November 5, 2026 – G2 Roster Shuffles and Perkz Departure:** Following recent international struggles, G2 Esports announced the immediate termination of head coach Luka "Perkz" Perković following a controversial statement posted to social media regarding abortion. In addition, sources confirmed that jungler SkewMond will not continue on G2's active roster for the 2027 season, with Lyncas reportedly set to take his place.
-* **November 5, 2026 – LEC Transfer & Roster Reports:** Sheep Esports reported that Zicssi is set to join SK Gaming for the 2027 LEC season, while Movistar KOI, NAVI, and G2 Esports have all approached Team Vitality regarding potential bids for top laner Naak Nako.
-* **November 6, 2026 – Upcoming Quarterfinal:** Karmine Corp faces T1 in a high-stakes best-of-five matchup. Karmine Corp released a promotional trailer highlighting their first-ever meeting against T1.
+* **November 7, 2026 – Worlds 2026 Knockout Stage Quarterfinals:** **T1 3, Karmine Corp 1.** T1 defeated Karmine Corp to advance to the Semifinals, where they will face Bilibili Gaming, while Karmine Corp has been eliminated from the tournament.
+* **November 7, 2026 – Roster & Player News:** Bot laner Yoon "Ice" Sang-hoon announced his retirement from professional League of Legends at age 25 to fulfill military service, following stints in the LEC with Team BDS and Heretics.
 
 ## Florida Gators
 
-* **November 4, 2026 – CFP Ranking Debut:** The Florida Gators debuted at **No. 24** in the initial College Football Playoff rankings released on **November 4, 2026**.
-* **November 5, 2026 – Roster & Injury Updates Ahead of Oklahoma:** Ahead of their upcoming matchup against the **Oklahoma Sooners** on **November 7, 2026**, sources report that quarterback Tramell Jones Jr. is set to replace Aaron Philo as the starter. Additionally, starting defensive lineman Jeramiah McCloud was suspended for one game due to detrimental conduct, and wide receiver Vernell Brown III is listed as doubtful. Next-game win probability is unavailable.
+* **November 7, 2026 – Football Preview:** No. 24 Florida hosts the **Oklahoma Sooners** today in a Week 10 matchup in The Swamp, marking the first time the programs meet as regular-season SEC foes. Kickoff is set for Saturday, November 7, 2026. The game marks the program's 23rd consecutive sellout. 
+* **Roster Updates:** Heading into the matchup, sources report that Tramell Jones Jr. is set to replace Aaron Philo as the starting quarterback, while starting defensive lineman Jeramiah McCloud serves a one-game suspension for detrimental conduct. Next-game win probability is unavailable.
 
 ## Aston Villa
 
-* **November 5, 2026 – Individual Awards & Nominations:** Unai Emery was nominated for the Premier League Manager of the Month award for October, striker Nicolas Jackson earned a Player of the Month nomination after scoring four goals across four games, and goalkeeper Zion Suzuki's stop against Fulham was nominated for Save of the Month. 
-* **November 4, 2026 – Long-Term Commitment:** Aston Villa confirmed that Chairman Nassef Sawiris and Unai Emery reached an agreement on a strategic vision and commitment extending beyond 2029.
-* **Next Fixture:** Aston Villa Women return to action hosting **Manchester United Women** in the Barclays Women's Super League at Villa Park on **Sunday, November 8, 2026** (12:00 GMT).
+* **November 7, 2026 – Premier League Preview:** Aston Villa travels to face **Manchester United** at Old Trafford on Sunday, November 8, 2026 (ko 4:30 PM). Unai Emery's side enters unbeaten in their last five Premier League matches. Matty Cash is suspended for the fixture after picking up his fifth yellow card against Fulham, and Aaron Wan-Bissaka faces a late fitness test.
+* **November 6, 2026 – Individual Awards:** Forward Nicolas Jackson and manager Unai Emery received Premier League Player and Manager of the Month nominations for October following an unbeaten run that included a win over Manchester City. Goalkeeper Zion Suzuki's save against Fulham was also nominated for Save of the Month.
 
 ## Gaming & PlayStation (PS5)
 
-* **November 5, 2026 – Arkane Union Backlash:** Following an extended period of studio uncertainty, the STJV union representing workers at Arkane Lyon publicly accused Microsoft of "sabotaging" the development of *Marvel's Blade* through a lengthy hiring freeze and financial pressures.
-* **November 5, 2026 – Assassin's Creed Valhalla PS5 Update:** Ubisoft released a free update for *Assassin's Creed Valhalla* on PS5 and PS5 Pro, introducing New Game+ and upgraded PSSR rendering support exclusively for the Pro console.
-* **November 4, 2026 – God of War Laufey Delayed:** Santa Monica Studio announced that *God of War Laufey* has been delayed from February 2027 to **May 20, 2027**.
-* **Next Major Reveal or Release to Watch:** *Call of Duty: Modern Warfare 4* Season 1 launches on **November 6, 2026**, followed by *Grand Theft Auto 6* on **November 19, 2026**.
+* **November 6, 2026 – Sonic Racing: CrossWorlds Year Two:** Sega detailed the new Sega Consoles Pack coming to *Sonic Racing: CrossWorlds*, allowing players to drive vehicles styled after historic hardware, including the Sega Genesis, Saturn, and Dreamcast.
+* **November 6, 2026 – Industry Restructuring & Legal News:** Reuters reported that a consortium including Saudi Arabia's Public Investment Fund and Silver Lake Partners has held talks regarding a potential buyout of software and game engine provider Unity Software, valued up to $25 billion. 
+* **Next Major Reveal or Release to Watch:** *Grand Theft Auto 6* launches on PS5 on **November 19, 2026** (with preloads beginning November 10, 2026).
 
-## Richmond News
+## Richmond
 
 * No fresh update available; source checks failed.

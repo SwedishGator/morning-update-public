@@ -1,15 +1,13 @@
 ## Legal Developments
 
-* **Democratic Senate Set to Thwart Trump Judicial Appointments (November 5, 2026):** Following midterm election results, a newly secured Democratic Senate majority is positioned to block federal judicial and Supreme Court nominations from President Donald Trump.
-* **Harmeet Dhillon Resigns from DOJ Civil Rights Division (November 5, 2026):** Harmeet Dhillon submitted her resignation as head of the U.S. Department of Justice Civil Rights Division following the Democratic midterm election sweep.
-* **Texas Judicial Power Shifts to Democrats (November 5, 2026):** A wave of Democratic judicial victories across Texas handed control of key state court benches to Democrats, prompting incoming officials to begin scrutinizing major state legal contracts previously awarded to Republican-aligned law firms.
-* **Virginia Constitutional Amendments Face Legal Challenges (November 5, 2026):** Opponents filed formal legal challenges against newly voter-approved amendments to the Virginia Constitution, contesting the language and ratification process.
-* **Appeals Court Upholds NYC Luxury Second-Home Tax (November 4, 2026):** A New York appellate court ruled in favor of Assemblymember Zohran Mamdani and New York City, upholding the municipality's tax on luxury secondary residences against a landlord legal challenge.
+* **Newsom Death-Row Commutations Spark District Attorney Revolt (November 7, 2026):** California Governor Gavin Newsom’s commutations of death-row sentences triggered sharp backlash from prosecutors, with district attorneys warning of impending legal challenges and political battles over the executive actions.
+* **Washington Ranchers File Federal Suit Over Family Legacy Threats (November 7, 2026):** Multi-generation Washington ranchers initiated legal proceedings warning that ongoing regulatory disputes and land-use restrictions present an existential threat to their family agricultural operations.
+* **FIFA Chief Legal Officer Resigns Amid Presidential Campaign (November 6, 2026):** Emilio García Silvero stepped down as FIFA's chief legal and compliance officer, marking the second high-profile departure from the organization's legal department as President Gianni Infantino faces a contentious reelection campaign.
 
-## Richmond
+## English Royal Family
 
 No fresh update available; source checks failed.
 
-## Florida Gators
+## Richmond Events
 
-No fresh update since the last briefing.
+No fresh update available; source checks failed.
