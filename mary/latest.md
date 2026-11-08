@@ -1,16 +1,17 @@
-> Status: success
-> Generated: 2026-11-08T17:00:57.858502Z
-> Last successful run: 2026-11-08T17:00:17.240863Z
+> Status: failed
+> Generated: 2026-11-07T00:00:00Z
+> Last successful run: unavailable
+> Failure: No fresh run landed for this reporting window.
 ## Legal Developments
 
-* **Florida Congressional Recount Faces Legal Challenge (November 8, 2026):** Democratic campaign representatives filed a legal challenge contesting recount protocols and procedures in a close Florida congressional race following the midterm elections.
-* **Federal Judge Halts Construction on Trump Arch (November 6, 2026):** A federal judge issued an injunction blocking initial construction on Donald Trump's proposed 250-foot arch monument while courts evaluate environmental and statutory authorization challenges.
-* **Legal Battles Ignite Over Mississippi Senate Vote Counting (November 7, 2026):** Legal teams from the GOP and Democratic campaigns deployed to Mississippi as vote counting continues in a razor-thin U.S. Senate race, sparking litigation over mail-in and contested ballots.
-* **Biotech Industry Sues Over Medicare International Drug Pricing Pilot (November 7, 2026):** The Biotechnology Innovation Organization (BIO) joined federal litigation challenging a U.S. Department of Health and Human Services pilot program that attempts to benchmark domestic Medicare drug prices against lower costs in foreign countries.
+* **Newsom Death-Row Commutations Spark District Attorney Revolt (November 7, 2026):** California Governor Gavin Newsom’s commutations of death-row sentences triggered sharp backlash from prosecutors, with district attorneys warning of impending legal challenges and political battles over the executive actions.
+* **Washington Ranchers File Federal Suit Over Family Legacy Threats (November 7, 2026):** Multi-generation Washington ranchers initiated legal proceedings warning that ongoing regulatory disputes and land-use restrictions present an existential threat to their family agricultural operations.
+* **FIFA Chief Legal Officer Resigns Amid Presidential Campaign (November 6, 2026):** Emilio García Silvero stepped down as FIFA's chief legal and compliance officer, marking the second high-profile departure from the organization's legal department as President Gianni Infantino faces a contentious reelection campaign.
 
-## Richmond News & Community Events
+## English Royal Family
 
-* **Richmond Christmas Mother Campaign Opens with $37,834 (November 8, 2026):** The 2026 Richmond Christmas Mother program launched its annual holiday campaign under the leadership of Christmas Mother Cabell West, securing $37,834 in initial community donations.
-* **CarMax Park Installs 45-Foot Tree for WinterWorld (November 6, 2026):** Event crews set up a 45-foot Norway spruce at CarMax Park as the venue prepares to launch its seasonal WinterWorld festival on November 19.
-* **Belle Isle Event Connects Foster Youth with Potential Mentors (November 5, 2026):** Non-profit Kidsave hosted a "Weekend Miracles" event on Saturday, bringing a dozen foster youth to Belle Isle for a community hike alongside 36 adult volunteers and potential adoptive parents.
+No fresh update available; source checks failed.
 
+## Richmond Events
+
+No fresh update available; source checks failed.
