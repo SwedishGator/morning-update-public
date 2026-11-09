@@ -1,12 +1,11 @@
-> Status: failed
-> Generated: 2026-11-07T00:00:00Z
-> Last successful run: unavailable
-> Failure: No fresh run landed for this reporting window.
-## Legal Developments
+> Status: success
+> Generated: 2026-11-09T21:16:04.132564Z
+> Last successful run: 2026-11-09T21:16:00.291017Z
+## Hot Legal Developments
 
-* **Newsom Death-Row Commutations Spark District Attorney Revolt (November 7, 2026):** California Governor Gavin Newsom’s commutations of death-row sentences triggered sharp backlash from prosecutors, with district attorneys warning of impending legal challenges and political battles over the executive actions.
-* **Washington Ranchers File Federal Suit Over Family Legacy Threats (November 7, 2026):** Multi-generation Washington ranchers initiated legal proceedings warning that ongoing regulatory disputes and land-use restrictions present an existential threat to their family agricultural operations.
-* **FIFA Chief Legal Officer Resigns Amid Presidential Campaign (November 6, 2026):** Emilio García Silvero stepped down as FIFA's chief legal and compliance officer, marking the second high-profile departure from the organization's legal department as President Gianni Infantino faces a contentious reelection campaign.
+* **Texas Political Shift Impacts Interstate Litigation Strategy (November 9, 2026):** Bloomberg Law News reported that Texas shifting to a blue political alignment marks a major legal blow to ongoing multi-state legal challenges led by red states.
+* **Mississippi Senate Recount Rules Examined (November 9, 2026):** Following a tight election contest, BBC analysis outlined the specific legal recount rules governing the close Mississippi Senate race.
+* **Hawaii Supreme Court Considers Elephant Legal Rights (November 9, 2026):** KITV reported that the Hawaii Supreme Court is deciding whether captive elephants can attain legal personhood and rights.
 
 ## English Royal Family
 
@@ -15,3 +14,4 @@ No fresh update available; source checks failed.
 ## Richmond Events
 
 No fresh update available; source checks failed.
+
