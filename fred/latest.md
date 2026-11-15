@@ -1,32 +1,35 @@
 > Status: success
-> Coverage date: 2026-11-14
-> Generated: 2026-11-14T18:58:30.581050Z
-> Last successful run: 2026-11-14T18:58:30.581050Z
-### Gaming & Tech: Nvidia CEO Steps Down; PS5 Expands AI Upscaling
+> Coverage date: 2026-11-15
+> Generated: 2026-11-15T17:32:27.180238Z
+> Last successful run: 2026-11-14T19:01:49.580315Z
+### Florida Gators: Upset Victory at Kentucky Clinches Bowl Eligibility
 
-* **Nvidia Leadership Shakeup (Announced November 12, 2026):** In a historic industry disruption, Nvidia founder and CEO Jensen Huang resigned effective immediately following independent board inquiries into two extramarital affairs, including one involving a suspected foreign intelligence operative. Chief Financial Officer Colette Kress has been named interim CEO, and Harvey C. Jones has stepped in as the board’s first independent Chair.
-* **PlayStation 5 QSSR Rollout (Announced November 13, 2026):** Sony announced that its AI-guided Quick Spectral Super Resolution (QSSR) upscaling technology—originally limited to *Marvel’s Wolverine* and *Ghost of Yōtei*—is expanding to regular PS5 consoles. The upgrade is live now for *Marvel’s Spider-Man 2* across both Fidelity and Performance modes, with rollouts scheduled for *Control Resonant* in December, followed by *No Man’s Sky*, *The Finals*, *Arc Raiders*, and *Hell Let Loose: Vietnam*.
-* **New PS5 Title Reveal (Announced November 13, 2026):** Story-driven tactical RPG *Guild Saga: Vanished Worlds* was officially announced for a PS5 release window of May 2027.
-* **Next Major Release to Watch:** Rockstar Games' *Grand Theft Auto VI* launches on PS5 on November 19, 2026 (preloading is live now). The next major industry showcase will be The Game Awards on December 10, 2026.
-
----
-
-### Richmond: Airport Ground Stop and Local Losses
-
-* **FAA Ground Stop Halts Flights (November 13, 2026):** Air travel through Richmond International Airport saw major disruptions Friday afternoon and evening following a nationwide Federal Aviation Administration ground stop. The stoppage resulted in 20 flight delays and eight outright cancellations locally.
-* **Shockoe Slip Dining Champion Passes Away (November 14, 2026):** Richmond restaurant advocate Michael Byrne died at age 68. Byrne was widely recognized for transforming Shockoe Slip into a premier culinary destination and advocating for independent local restaurant operators across the city.
+* **Football (November 14, 2026):** The Florida Gators upset the No. 11 Kentucky Wildcats 21-14 on the road in Lexington, clinching bowl eligibility with their sixth win of the season. Quarterback Aaron Philo led the comeback with 102 rushing yards and a dual-threat performance. 
+  * **Final Score:** Florida Gators 21, No. 11 Kentucky 14
+  * **Record:** Unavailable in source data (secured 6th win for bowl eligibility)
+  * **Ranking Changes:** Florida climbed to the fringe of the top 25 in ESPN's Football Power Index (FPI); updated AP/Coaches poll rankings remain unavailable.
+  * **Next-Game Win Probability:** Unavailable.
+* **Men's Basketball (November 13, 2026):** No. 1 Florida cruised past the Merrimack Warriors 83-54 at Tower Hill Arena, led by forward Alex Condon. Season record is unavailable.
 
 ---
 
-### Florida Gators: Hoops Dominates Merrimack; Football Faces Kentucky
+### League of Legends: Bilibili Gaming Wins Worlds 2026
 
-* **Men's Basketball Blowout (November 13, 2026):** The No. 1 Florida Gators defeated the Merrimack Warriors 83-54 at the newly named Tower Hill Arena. The win improves Florida's record to 4-0 on the season. Guard Alex Lloyd made a surprise start in place of the injured Boogie Fland, contributing to a dominant frontcourt showing led by Alex Condon. Florida remains ranked No. 1 nationally (no ranking change). The win probability for their next matchup is unavailable.
-* **Football Gameday at Kentucky (November 14, 2026):** Florida visits Kroger Field to face No. 13 Kentucky in Lexington. The Gators confirmed Aaron Philo as the starting quarterback, while receiver Vernell Brown III and safety Bryce Thornton remain ruled out due to injury. Florida's next-game win probability is unavailable.
+* **Worlds 2026 Grand Final (November 15, 2026):** China's Bilibili Gaming (BLG) defeated South Korea's Gen.G with a 3-1 series victory to claim their first League of Legends World Championship title.
+  * **Matchup & Score:** Bilibili Gaming 3, Gen.G 1
+  * **Bracket Implications:** BLG captured the Summoner's Cup to bring the international title back to the LPL for the first time in five years. Gen.G was eliminated as tournament runners-up. Mid laner Knight took home Finals MVP honors across the four-game series.
 
 ---
 
-### League of Legends: Worlds 2026 Finals Set
+### Gaming & PlayStation (PS5)
 
-* **Worlds 2026 Semifinal Results & Final Matchup (November 14, 2026):** The 2026 World Championship concludes today at the Barclays Center in Brooklyn with a best-of-five Grand Final between China's Bilibili Gaming (BLG) and South Korea's Gen.G. 
-* **Bracket Implications:** To secure their finals berths, BLG eliminated reigning champions T1 with a 3-1 semifinal series win, while Gen.G swept Invictus Gaming (iG) 3-0. Both defeated semifinalists were eliminated from the tournament, leaving BLG and Gen.G to battle for the Summoner's Cup.
+* **Take-Two Rebuffs Acquisition Speculation (Announced November 13, 2026):** Take-Two Interactive CEO Strauss Zelnick stated the publisher has no interest in selling itself or seeking a buyout following Electronic Arts' $55 billion deal to go private. Zelnick highlighted Take-Two's financial strength and scale as an independent company, backed by full-year net revenue guidance of $8.0 billion to $8.2 billion.
+* **GTA VI Physical Sleeve Security Flaw (Reported November 13, 2026):** European (PEGI) code-in-box copies of *Grand Theft Auto VI* were found to have download codes printed directly onto the inner case sleeve rather than a separate voucher. Retailers and consumers discovered the codes could be viewed in reverse through closed plastic cases using a direct flashlight beam, exposing them to theft prior to purchase. North American packaging features an obscured interior layout and is unaffected.
+* **Next Major Reveal / Release to Watch:** Rockstar Games' *Grand Theft Auto VI* launches worldwide on PS5 on November 19, 2026. The Game Awards will stream live on December 10, 2026, featuring major upcoming showcases.
+
+---
+
+### Richmond Local News
+
+No fresh update available; source checks failed.
 
