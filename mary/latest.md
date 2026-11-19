@@ -1,6 +1,6 @@
 > Status: success
-> Coverage date: 2026-11-17
-> Generated: 2026-11-17T19:31:34.981440Z
-> Last successful run: 2026-11-17T19:31:11.688198Z
+> Coverage date: 2026-11-19
+> Generated: 2026-11-19T19:59:15.741403Z
+> Last successful run: 2026-11-19T19:56:16.337354Z
 No fresh update available; source checks failed.
 
