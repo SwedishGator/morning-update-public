@@ -1,33 +1,32 @@
 > Status: success
-> Coverage date: 2026-11-20
-> Generated: 2026-11-20T19:36:38.565831Z
-> Last successful run: 2026-11-19T19:59:15.741403Z
+> Coverage date: 2026-11-21
+> Generated: 2026-11-21T18:45:47.704586Z
+> Last successful run: 2026-11-20T19:37:11.674975Z
 ### Gaming & PlayStation (PS5)
 
-* **GTA VI PS5 Crash Reports & Take-Two Update (Announced November 20, 2026):** Following the release of *Grand Theft Auto VI*, some PlayStation 5 users reported mid-game crashes tied to error code CE-108255-1, which player reports suggest may stem from heavy hardware demands on older PS5 consoles. Separately, Take-Two CEO Strauss Zelnick addressed questions on November 19, 2026, stating that the publisher has no immediate plans or discussions regarding a potential *GTA 7*.
-* **Ubisoft Unveils Motherbrain AI Studio (Announced November 20, 2026):** Following structural layoffs across its Montreal and Quebec City development hubs, Ubisoft announced the creation of Motherbrain, a new internal studio tasked with exploring generative AI technology for gameplay innovation.
-* **Industry Passing (Announced November 20, 2026):** Arika company director and veteran developer Akira Kurabayashi passed away late last week due to heart failure.
-* **Next Major Release/Reveal to Watch:** The Game Awards live showcase on December 10, 2026.
+* **GTA 6 Launch Records and Engagement (Announced November 20, 2026):** Following its November 19, 2026 launch on PlayStation 5, Circana reported that 61% of active US PS5 accounts engaged with *Grand Theft Auto 6* on launch day, averaging 513 minutes of playtime and temporarily pushing *Fortnite* to the number two spot. Comcast reported record-breaking network demand during preloading on November 18, 2026, with GTA 6 traffic accounting for roughly 24% of all network volume. Meanwhile, actor Michael C. Hall publicly reacted to the game's in-game *Dexter* Easter eggs on November 20, 2026, noting he was informed of the homage after launch.
+* **Gacha Malware Security Warning (Announced November 20, 2026):** Security reports highlighted that a compromised PC launcher for the gacha action shooter *NIKKE: Goddess of Victory* distributed the k2f trojan malware, leading to a prominent data security breach in a Japanese municipal office after an employee used a work PC for gaming.
+* **Next Major Reveal / Release to Watch:** The Game Awards streams live on December 10, 2026.
 
 ---
 
 ### Florida Gators
 
-* **Men's Basketball (November 19, 2026):** No. 1 Florida recovered from its semifinal loss to defeat West Virginia in the third-place game of the Players Era tournament in Las Vegas, playing without guard Boogie Fland due to injury.
-  * **Final Score:** Florida 85, West Virginia 72
-  * **Record:** 6-1
-  * **Ranking:** No. 1 (AP Poll)
-* **Women's Basketball (November 19, 2026):** Florida dominated Florida Atlantic at home ahead of the holiday break.
-  * **Final Score:** Florida 82, FAU 39
-  * **Record:** Unavailable
-* **Football Upcoming Fixture:** The Gators close out their regular-season home slate on Saturday, November 21, 2026 (12:00 p.m. ET, SEC Network).
-  * **Opponent:** Vanderbilt Commodores
-  * **Next-Game Win Probability:** Unavailable (ESPN matchup predictor heavily favors Florida; exact percentage unavailable)
-  * **Ranking:** No. 24 (College Football Playoff)
+* **Football Game Day vs. Vanderbilt (November 21, 2026):** No. 24 Florida hosts the Vanderbilt Commodores today in The Swamp for their regular-season home finale and Senior Day. 
+  * **Final Score:** Unavailable (Game day in progress)
+  * **Record:** 6-4
+  * **Ranking Changes:** Unchanged at No. 24 in the College Football Playoff rankings.
+  * **Next-Game Win Probability:** Unavailable.
+
+---
+
+### League Championship Series (LCS)
+
+* No fresh update available; source checks failed.
 
 ---
 
 ### Richmond
 
-No fresh update available; source checks failed.
+* No fresh update available; source checks failed.
 
